@@ -1,0 +1,1 @@
+In this Folder the Matlab scrip presented [CAD2MATLAB-script.m] reads the BUDDI.stl file and exports the corresponding matlab file to use in the Trajectory function.
